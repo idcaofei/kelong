@@ -1,1 +1,8 @@
 cat
+<<<<<<< HEAD
+=======
+elephant
+devvvvvvvvvvvv
+hebingle
+>>>>>>> 4c112c1031afc83684913b95b53d45ed38976ebc
+333
